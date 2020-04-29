@@ -1,0 +1,19 @@
+{
+  "name": "de.secretlab.statemachine",
+  "version": "0.1.0",
+  "displayName": "State Machine",
+  "description": "A simple helper package for creating state machines with timed behaviour in C# scripts.",
+  "unity": "2019.3",
+  "unityRelease": "11f1",
+  "keywords": [
+    "state machine",
+    "timing",
+    "timed behaviour"
+  ],
+  "author": {
+    "name": "H. Gregor Molter",
+    "email": "gregor.molter@secretlab.de"
+  },
+  "type": "tool",
+  "hideInEditor": false
+}
